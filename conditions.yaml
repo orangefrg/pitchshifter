@@ -1,0 +1,25 @@
+debug: true
+time_limit: 180
+shift_start: 9
+tz: 3
+year: 2024
+month: 12
+employees:
+  "Kristian Blummenfelt":
+    days_off: [1,2,3,4,5,6,7,8,9,10,11,12,13,14]
+    no_day_duty: []
+    pto: 14
+  "Anne Haug":
+    days_off: []
+    no_day_duty: [1,2,3]
+  "Tadej Pogačar":
+    days_off: [15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30]
+    no_day_duty: [8,9]
+    pto: 14
+  "Kasia Niewiadoma":
+    days_off: [28]
+    no_day_duty: [17]
+  "John Doe":
+    days_off: [30]
+    no_day_duty: [20, 26]
+  
